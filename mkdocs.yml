@@ -1,0 +1,4 @@
+site_name: djangorestframework-optional-response
+site_description: Your project description goes here
+repo_url: https://github.com/krisnadi/django-rest-framework-optional-response
+site_dir: html
